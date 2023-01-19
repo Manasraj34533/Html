@@ -1,0 +1,14 @@
+.container .list{
+    width: 15%;
+    background-color: #d2f8ff99;
+    position:absolute;
+    top: 8.5%;
+    right: 7%;
+}
+
+.list-items{
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+}
